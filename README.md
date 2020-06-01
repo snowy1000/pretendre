@@ -17,4 +17,4 @@ const POSTresponse = pretendre.makeRequest.post("https://pretendre.is-online.me"
 const POSTbody = POSTresponse.body;
 ```
 
-For any problem, create a request on Github, click (here)[https://github.com/snowy1000/pretendre] (just to clarify, using Github is a better way), or join our Discord server by clicking (here)[https://discord.gg/JajWkmj].
+For any problem, create a request on Github, click [here](https://github.com/snowy1000/pretendre) (just to clarify, using Github is a better way), or join our Discord server by clicking [here](https://discord.gg/JajWkmj).
