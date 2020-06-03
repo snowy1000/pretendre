@@ -1,7 +1,7 @@
 {
   "name": "pretendre",
   "description": "A lightweight package to send post and get requests easily.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Snowy ✨#1000",
   "main": "App.js",
   "homepage": "https://github.com/snowy1000/pretendre",
