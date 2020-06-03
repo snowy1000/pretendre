@@ -8,5 +8,20 @@
   "bugs": {
     "url": "https://github.com/1000snowy/pretendre/issues"
   },
-  "license": "SEE LICENSE IN LICENSE FILE"
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "keywords": [
+    "http",
+    "request",
+    "https",
+    "node",
+    "promise",
+    "simple",
+    "util",
+    "utility",
+    "fetch",
+    "node-fetch",
+    "fetch",
+    "superagent",
+    "snekfetch"
+  ]
 }
