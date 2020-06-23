@@ -1,27 +1,30 @@
 {
-  "name": "pretendre",
-  "description": "A lightweight package to send post and get requests easily.",
-  "version": "1.0.3",
-  "author": "Snowy ✨#1000",
-  "main": "App.js",
-  "homepage": "https://github.com/snowy1000/pretendre",
-  "bugs": {
-    "url": "https://github.com/1000snowy/pretendre/issues"
-  },
-  "license": "SEE LICENSE IN LICENSE FILE",
-  "keywords": [
-    "http",
-    "request",
-    "https",
-    "node",
-    "promise",
-    "simple",
-    "util",
-    "utility",
-    "fetch",
-    "node-fetch",
-    "fetch",
-    "superagent",
-    "snekfetch"
-  ]
+    "name": "pretendre",
+    "description": "A lightweight package to send post and get requests easily.",
+    "version": "1.0.3",
+    "author": "Snowy ✨#1000",
+    "main": "App.js",
+    "homepage": "https://github.com/snowy1000/pretendre",
+    "bugs": {
+        "url": "https://github.com/1000snowy/pretendre/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE FILE",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "http",
+        "request",
+        "https",
+        "node",
+        "promise",
+        "simple",
+        "util",
+        "utility",
+        "fetch",
+        "node-fetch",
+        "fetch",
+        "superagent",
+        "snekfetch"
+    ]
 }
